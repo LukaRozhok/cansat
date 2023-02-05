@@ -1,11 +1,11 @@
 # cansat
 CanSat's primary mission programs
 
-#Arduino Uno Pinout
+# Arduino Uno Pinout
 https://www.circuito.io/blog/arduino-uno-pinout/
 
 
-#Arduino I2C interface
+# Arduino I2C interface
 https://www.electronicwings.com/arduino/arduino-i2c
 https://www.analog.com/en/technical-articles/i2c-primer-what-is-i2c-part-1.html
 https://learn.adafruit.com/scanning-i2c-addresses/i2c-basics
@@ -23,10 +23,6 @@ https://learn.adafruit.com/adafruit-bmp388-bmp390-bmp3xx/arduino
 # LCD
 https://botland.com.pl/konwertery-pozostale/2352-konwerter-i2c-dla-wyswietlacza-lcd-hd44780-5903351248693.html
 https://wiki.dfrobot.com/I2C_TWI_LCD1602_Module__Gadgeteer_Compatible___SKU__DFR0063_
-
-
-
-
 
 # Adafruit VCNL4040 Proximity Sensor
 https://learn.adafruit.com/adafruit-vcnl4040-proximity-sensor
